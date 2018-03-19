@@ -2,9 +2,12 @@
 layout: page
 title: Python Project 
 ---
+
+
+
+
 print("Hi please pick a number 0, 1, or 2. Whoever picks the higher number wins!") 
-    
-user_choice = int(input())
+    user_choice = int(input())
 import random 
 print ( 3 , 2 , 1 )
 
