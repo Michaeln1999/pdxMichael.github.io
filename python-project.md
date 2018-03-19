@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Python Project - 0, 1, 2! 
+title: Python Project 
 ---
-print("Hi please pick a number. Your choices are 0, 1, 2. The number with whoever randomly picks the higher number wins!") 
+print("Hi please pick a number 0, 1, or 2. Whoever picks the higher number wins!") 
+    
 user_choice = int(input())
 import random 
 print ( 3 , 2 , 1 )
