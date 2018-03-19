@@ -1,13 +1,8 @@
 ---
 layout: page
-title: Another Page
+title: Python Project - 0, 1, 2! 
 ---
-
-
-
 print("Hi please pick a number. Your choices are 0, 1, 2. The number with whoever randomly picks the higher number wins!") 
-
-
 user_choice = int(input())
 import random 
 print ( 3 , 2 , 1 )
