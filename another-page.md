@@ -3,8 +3,8 @@ layout: page
 title: Another Page
 ---
 
-This is another page. It is automatically added to the menu with a link
-that matches whatever you type after 'title' above.
+This program lets the user pick a number between 0-2 and the computer also chooses a number between 0-2 whoever chooses the number that's bigger wins the game. 
+
 print("Hi please pick a number. Your choices are 0, 1, 2. The number with whoever randomly picks the higher number wins!") 
 
 user_choice = int(input())
