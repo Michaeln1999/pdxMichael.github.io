@@ -1,5 +1,7 @@
 ---
-Python Project 
+layout : Page 
+Title : Python Project 
+---
 
 
 
