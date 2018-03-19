@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Python Project 
+Python Project 
 
 
 
